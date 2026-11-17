@@ -29,14 +29,6 @@ Estudiante de **Desarrollo Web** con formación previa en **Sistemas Microinform
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 ## 🌐 Conecta conmigo
 
