@@ -1,6 +1,6 @@
 # Hola, soy Samuel Díaz 👋
 
-Estudiante de **Desarrollo Web** con formación previa en **Sistemas Microinformáticos y Redes (SMR)**. Me apasiona crear aplicaciones funcionales, intuitivas y bien estructuradas, combinando mis conocimientos técnicos con una fuerte capacidad de comunicación y trabajo en equipo.
+Estudiante de **Desarrollo Web** con formación previa en **Sistemas Microinformáticos y Redes (SMR)**. Me apasiona la programación y los problemas que me hacen comerme la cabeza. 
 
 - 🌱 Actualmente aprendiendo: **Desarrollo Web Full Stack** (HTML, CSS, JavaScript, bases de datos y frameworks modernos).
 - 💻 Formación técnica: **Grado Medio en SMR** + **Desarrollo Web**.
